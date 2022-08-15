@@ -1,2 +1,7 @@
 language
-
+builtin_functions
+classes
+comprehensions
+functions
+logging
+collections
